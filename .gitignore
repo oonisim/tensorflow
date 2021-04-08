@@ -1,4 +1,4 @@
 **/.ipynb_checkpoints/
 **/.pytest_cache
-/data/text/
+/data/text/*.txt
 /.idea/
